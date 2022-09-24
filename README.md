@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MitulV
 - 👀 I’m interested in developing innovative things.
-- 🌱 I’m currently learning Laravel and Node.js
-- 💞️ I’m looking to collaborate on Linkedin.
 - 📫 How to reach me https://www.linkedin.com/in/MitulVPatel2211
 
 <!---
